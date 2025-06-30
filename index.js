@@ -5,7 +5,7 @@ const dv = document.querySelector(".bgdv");
 let ybtnsScale = 1; // Initial scale
 
 nbtns.addEventListener("mouseover", () => {
-  dv.style.backgroundImage = "url(/angry.gif)";
+  dv.style.backgroundImage = "url(angry.gif)";
 });
 
 nbtns.addEventListener("mouseout", () => {
@@ -13,7 +13,7 @@ nbtns.addEventListener("mouseout", () => {
 });
 
 ybtns.addEventListener("mouseover", () => {
-  dv.style.backgroundImage = "url(/kalp.gif)";
+  dv.style.backgroundImage = "url(kalp.gif)";
 });
 
 ybtns.addEventListener("mouseout", () => {
