@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Kalinbas';
-  src: url('/css/ArsenalSC-Bold.ttf') format('truetype');
+  src: url('ArsenalSC-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'btnlr';
-  src: url('/css/ArsenalSC-Italic.ttf') format('truetype');
+  src: url('ArsenalSC-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@ body {
 
   position: relative;
   margin: 0;
-  background-image: url("/darlinbg.png");
+  background-image: url("darlinbg.png");
   background-size: cover;
 }
 
